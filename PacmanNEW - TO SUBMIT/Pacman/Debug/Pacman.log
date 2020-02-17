@@ -1,0 +1,73 @@
+﻿  main.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.22.27905\include\vector(1716,1): warning C4251:  'std::vector<S2D::Input::Keys,std::allocator<_Ty>>::_Mypair': class 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.22.27905\include\vector(1716,1): warning C4251:         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.22.27905\include\vector(1716,1): warning C4251:         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.22.27905\include\vector(1716,1): warning C4251:             _Ty=S2D::Input::Keys
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.22.27905\include\vector(1716,1): warning C4251:         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.22.27905\include\vector(1716): message :  see declaration of 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.22.27905\include\vector(1716): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.22.27905\include\vector(1716): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.22.27905\include\vector(1716): message :             _Ty=S2D::Input::Keys
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.22.27905\include\vector(1716): message :         ]
+  Pacman.cpp
+C:\Users\Charlotte\OneDrive - Staffordshire University\PacmanNEW - TO SUBMIT\Pacman\S2D\Input.h(108): message :  see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>' being compiled
+C:\Users\Charlotte\OneDrive - Staffordshire University\PacmanNEW - TO SUBMIT\Pacman\S2D\Input.h(108): message :         with
+C:\Users\Charlotte\OneDrive - Staffordshire University\PacmanNEW - TO SUBMIT\Pacman\S2D\Input.h(108): message :         [
+C:\Users\Charlotte\OneDrive - Staffordshire University\PacmanNEW - TO SUBMIT\Pacman\S2D\Input.h(108): message :             _Ty=S2D::Input::Keys
+C:\Users\Charlotte\OneDrive - Staffordshire University\PacmanNEW - TO SUBMIT\Pacman\S2D\Input.h(108): message :         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.22.27905\include\vector(1716,1): warning C4251:  'std::vector<S2D::Input::Keys,std::allocator<_Ty>>::_Mypair': class 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.22.27905\include\vector(1716,1): warning C4251:         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.22.27905\include\vector(1716,1): warning C4251:         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.22.27905\include\vector(1716,1): warning C4251:             _Ty=S2D::Input::Keys
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.22.27905\include\vector(1716,1): warning C4251:         ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.22.27905\include\vector(1716): message :  see declaration of 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.22.27905\include\vector(1716): message :         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.22.27905\include\vector(1716): message :         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.22.27905\include\vector(1716): message :             _Ty=S2D::Input::Keys
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.22.27905\include\vector(1716): message :         ]
+C:\Users\Charlotte\OneDrive - Staffordshire University\PacmanNEW - TO SUBMIT\Pacman\S2D\Input.h(108): message :  see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>' being compiled
+C:\Users\Charlotte\OneDrive - Staffordshire University\PacmanNEW - TO SUBMIT\Pacman\S2D\Input.h(108): message :         with
+C:\Users\Charlotte\OneDrive - Staffordshire University\PacmanNEW - TO SUBMIT\Pacman\S2D\Input.h(108): message :         [
+C:\Users\Charlotte\OneDrive - Staffordshire University\PacmanNEW - TO SUBMIT\Pacman\S2D\Input.h(108): message :             _Ty=S2D::Input::Keys
+C:\Users\Charlotte\OneDrive - Staffordshire University\PacmanNEW - TO SUBMIT\Pacman\S2D\Input.h(108): message :         ]
+C:\Users\Charlotte\OneDrive - Staffordshire University\PacmanNEW - TO SUBMIT\Pacman\Pacman.cpp(96,18): warning C4156:  deletion of an array expression without using the array form of 'delete'; array form substituted
+C:\Users\Charlotte\OneDrive - Staffordshire University\PacmanNEW - TO SUBMIT\Pacman\Pacman.cpp(96,18): warning C4154:  deletion of an array expression; conversion to pointer supplied
+C:\Users\Charlotte\OneDrive - Staffordshire University\PacmanNEW - TO SUBMIT\Pacman\Pacman.cpp(152,12): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Charlotte\OneDrive - Staffordshire University\PacmanNEW - TO SUBMIT\Pacman\Pacman.cpp(151,45): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Charlotte\OneDrive - Staffordshire University\PacmanNEW - TO SUBMIT\Pacman\Pacman.cpp(161,11): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Charlotte\OneDrive - Staffordshire University\PacmanNEW - TO SUBMIT\Pacman\Pacman.cpp(160,39): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Charlotte\OneDrive - Staffordshire University\PacmanNEW - TO SUBMIT\Pacman\Pacman.cpp(175,41): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Charlotte\OneDrive - Staffordshire University\PacmanNEW - TO SUBMIT\Pacman\Pacman.cpp(174,47): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Charlotte\OneDrive - Staffordshire University\PacmanNEW - TO SUBMIT\Pacman\Pacman.cpp(294,41): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Charlotte\OneDrive - Staffordshire University\PacmanNEW - TO SUBMIT\Pacman\Pacman.cpp(364,43): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Charlotte\OneDrive - Staffordshire University\PacmanNEW - TO SUBMIT\Pacman\Pacman.cpp(363,44): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Charlotte\OneDrive - Staffordshire University\PacmanNEW - TO SUBMIT\Pacman\Pacman.cpp(423,29): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Charlotte\OneDrive - Staffordshire University\PacmanNEW - TO SUBMIT\Pacman\Pacman.cpp(427,56): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Charlotte\OneDrive - Staffordshire University\PacmanNEW - TO SUBMIT\Pacman\Pacman.cpp(431,29): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Charlotte\OneDrive - Staffordshire University\PacmanNEW - TO SUBMIT\Pacman\Pacman.cpp(435,57): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Charlotte\OneDrive - Staffordshire University\PacmanNEW - TO SUBMIT\Pacman\Pacman.cpp(437,56): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Charlotte\OneDrive - Staffordshire University\PacmanNEW - TO SUBMIT\Pacman\Pacman.cpp(438,55): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Charlotte\OneDrive - Staffordshire University\PacmanNEW - TO SUBMIT\Pacman\Pacman.cpp(444,54): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Charlotte\OneDrive - Staffordshire University\PacmanNEW - TO SUBMIT\Pacman\Pacman.cpp(448,43): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Charlotte\OneDrive - Staffordshire University\PacmanNEW - TO SUBMIT\Pacman\Pacman.cpp(576,14): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Charlotte\OneDrive - Staffordshire University\PacmanNEW - TO SUBMIT\Pacman\Pacman.cpp(578,12): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Charlotte\OneDrive - Staffordshire University\PacmanNEW - TO SUBMIT\Pacman\Pacman.cpp(580,13): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Charlotte\OneDrive - Staffordshire University\PacmanNEW - TO SUBMIT\Pacman\Pacman.cpp(582,11): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Charlotte\OneDrive - Staffordshire University\PacmanNEW - TO SUBMIT\Pacman\Pacman.cpp(589,36): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Charlotte\OneDrive - Staffordshire University\PacmanNEW - TO SUBMIT\Pacman\Pacman.cpp(590,30): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Charlotte\OneDrive - Staffordshire University\PacmanNEW - TO SUBMIT\Pacman\Pacman.cpp(591,35): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Charlotte\OneDrive - Staffordshire University\PacmanNEW - TO SUBMIT\Pacman\Pacman.cpp(592,29): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Charlotte\OneDrive - Staffordshire University\PacmanNEW - TO SUBMIT\Pacman\Pacman.cpp(616,39): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Charlotte\OneDrive - Staffordshire University\PacmanNEW - TO SUBMIT\Pacman\Pacman.cpp(617,33): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Charlotte\OneDrive - Staffordshire University\PacmanNEW - TO SUBMIT\Pacman\Pacman.cpp(618,38): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Charlotte\OneDrive - Staffordshire University\PacmanNEW - TO SUBMIT\Pacman\Pacman.cpp(619,32): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Charlotte\OneDrive - Staffordshire University\PacmanNEW - TO SUBMIT\Pacman\Pacman.cpp(633,33): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Charlotte\OneDrive - Staffordshire University\PacmanNEW - TO SUBMIT\Pacman\Pacman.cpp(634,27): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Charlotte\OneDrive - Staffordshire University\PacmanNEW - TO SUBMIT\Pacman\Pacman.cpp(635,32): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Charlotte\OneDrive - Staffordshire University\PacmanNEW - TO SUBMIT\Pacman\Pacman.cpp(636,26): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Charlotte\OneDrive - Staffordshire University\PacmanNEW - TO SUBMIT\Pacman\Pacman.cpp(647,30): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Charlotte\OneDrive - Staffordshire University\PacmanNEW - TO SUBMIT\Pacman\Pacman.cpp(648,24): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Charlotte\OneDrive - Staffordshire University\PacmanNEW - TO SUBMIT\Pacman\Pacman.cpp(649,29): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+C:\Users\Charlotte\OneDrive - Staffordshire University\PacmanNEW - TO SUBMIT\Pacman\Pacman.cpp(650,23): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+  Pacman.vcxproj -> C:\Users\Charlotte\OneDrive - Staffordshire University\PacmanNEW - TO SUBMIT\Debug\Pacman.exe
